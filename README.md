@@ -26,7 +26,7 @@ count.pyというノードが1秒間に10ずつ数字が上がり、twice.pyと�
 3. 端末3でtwice.pyを実行する  
 `$ rosrun mypkg twice.py`
 
-4. 端末4でデータを取り出す。  
+4. 端末4でデータを取り出す  
 `$ rostopic echo /twice`
 
 ### 実行方法についての補足
