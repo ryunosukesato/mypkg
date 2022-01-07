@@ -42,5 +42,5 @@ Ryuichi Ueda　　著者のアカウントのリンクは[こちら](https://git
 
 # 参考
 このリポジトリの作成時に参考にしたリポジトリは以下の2つです。  
-1つ目は[こちら](https://github.com/momokohara/robosys2020_ros)  
-2つ目は[こちら](https://github.com/MibuchiYuta/ROS_ServoDriverHAT)
+・1つ目は[こちら](https://github.com/momokohara/robosys2020_ros)  
+・2つ目は[こちら](https://github.com/MibuchiYuta/ROS_ServoDriverHAT)
